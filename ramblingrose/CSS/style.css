@@ -1,0 +1,11 @@
+body {
+	background-color: #C3E4ED;
+}
+
+h1, p {
+	color: #006400;
+}
+
+#slogan {
+	font-style: italic;
+}
